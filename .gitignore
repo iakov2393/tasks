@@ -1,0 +1,24 @@
+# байт-код Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# виртуальные окружения
+.venv/
+.env/
+venv/
+
+# временные файлы
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# кеши
+.mypy_cache/
+.ruff_cache/
+pytest_cache/
+
+# IDE
+.idea/
+.vscode/
